@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/banner.jpg);
+	background-image: url(https://raw.githubusercontent.com/mikitorecor/coursera-test/gh-pages/img/banner.jpg);
 	background-size: cover;
 	background-position: 0px -80px;
 	position: relative;
